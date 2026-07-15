@@ -14,12 +14,12 @@
 
 .span{
     color: white;
-    font-size: 50px;
+    
    
 }
 
 .span span{
-    font-size: 30px;
+  font-size:small;
     color: white;
 }
 
