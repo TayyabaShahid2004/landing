@@ -93,7 +93,7 @@
 @media (max-width:768px){
 
     .container{
-        height: 20vh;
+        height: 30vh;
     }
 
     .span{
@@ -114,4 +114,10 @@
     .About{
         width: 100%;
     }
+    .container h1{
+        font size:32px;
+    }
+    .container h1 span{
+        font size:18px;
+}
 }
