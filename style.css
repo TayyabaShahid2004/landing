@@ -115,9 +115,11 @@
         width: 100%;
     }
     .container h1{
-        font size:32px;
+        font size:27px;
+        padding:10px;
     }
     .container h1 span{
-        font size:18px;
+        font size:12px;
+        padding:10px;
 }
 }
