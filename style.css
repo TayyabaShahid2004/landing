@@ -92,17 +92,17 @@
 @media (max-width:768px){
 
     .container{
-        height: 40vh;
+        height: 18vh;
     }
 
     .span{
-        font-size: 30px;
+        font-size: 26px;
         padding-top: 60px;
         padding-left: 20px;
     }
 
     .span span{
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .card{
