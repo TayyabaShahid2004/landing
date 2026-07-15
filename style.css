@@ -92,7 +92,7 @@
 @media (max-width:768px){
 
     .container{
-        height: 35vh;
+        height: 40vh;
     }
 
     .span{
@@ -114,11 +114,11 @@
         width: 100%;
     }
     .container h1{
-        font size:27px;
-        padding:10px;
+        font size:18px;
+    
     }
     .container h1 span{
-        font size:12px;
-        padding:10px;
+        font size:8px;
+    
 }
 }
